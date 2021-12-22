@@ -1,0 +1,1 @@
+This code will show a functioning website to promote search optimazation practicies.
