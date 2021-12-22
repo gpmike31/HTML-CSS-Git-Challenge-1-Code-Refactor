@@ -5,6 +5,7 @@
 }
 
 body {
+<<<<<<< HEAD
     background-color: #d9dcd6;
 }
 
@@ -41,6 +42,89 @@ body {
     margin-left: 25px;
 }
 
+=======
+    color: #0072bb;
+    background-color: #d9dcd6;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    padding: 20px 35px;
+    background-color: #39a6b2
+}
+
+header h1 {
+    display: inline;
+    font-size: 48px;
+    font-weight: bold;
+    color: azure;
+    margin: 0;
+}
+
+header nav {
+    float:left;
+    color: #d9dcd6;
+    margin: 10px 0
+}
+
+header nav ul li a {
+    font-weight:bolder;
+    margin-left: 0 20px;
+    float: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    display:inline inline-block
+}
+
+
+.benefits div {
+    display:inline-flex;
+    margin-left: 25px;
+}
+
+.benefits img {
+    width: 20%
+    margin: 10px 0;
+ }
+
+.benefits p {
+    color: beige;
+    font-size: 24px;
+}
+
+.benefit-brand div {
+    display:inline-flex;
+    margin-left: 25px;
+}
+
+.benefits-brand img {
+    width: 20%
+    margin: 10px 0;
+}
+
+.benefits-brand p {
+    color: beige;
+    font-size: 24px;
+}
+
+
+benefit-cost div {
+    display:inline-flex;
+    margin-left: 25px;
+}
+
+.benefits-cost img {
+    width: 20%
+    margin: 10px 0;
+}
+
+.benefits-cost p {
+    color: beige;
+    font-size: 24px;
+}
+
+
+>>>>>>> branch-2
 a {
     color: #ffffff;
     text-decoration: none;
@@ -134,6 +218,7 @@ p {
     max-width: 150px;
 }
 
+<<<<<<< HEAD
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -188,6 +273,8 @@ p {
     font-size: 36px;
 }
 
+=======
+>>>>>>> branch-2
 .footer {
     padding: 30px;
     clear: both;
